@@ -1,5 +1,5 @@
 # high-order-regularization
-Code for https://arxiv.org/abs/
+Code for https://arxiv.org/abs/2510.13639
 
 For questions/comments contact Svetlana Tlupova (svetlana.tlupova@farmingdale.edu) 
 
